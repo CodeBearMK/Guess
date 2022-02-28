@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\Guess\bin\Debug\Guess.exe.config
+D:\cat32tw\Desktop\Guess\bin\Debug\Guess.exe
+D:\cat32tw\Desktop\Guess\bin\Debug\Guess.pdb
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.Form1.resources
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.Properties.Resources.resources
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.exe
+D:\cat32tw\Desktop\Guess\obj\Debug\Guess.pdb
